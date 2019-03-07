@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Speak Mail</string>
+    <string name="title_activity_read_mail">ReadMail</string>
+</resources>
